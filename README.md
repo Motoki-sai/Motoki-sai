@@ -1,14 +1,7 @@
 <div align="center">
 
-<br />
+<img src="./banner.svg" alt="Motoki Saito — Full-stack engineer" width="100%" />
 
-# Motoki Saito
-
-**Full-stack engineer** · 5+ years
-
-<sub>Nuxt / React on the front, Hono on the back, AWS + Terraform underneath.</sub>
-
-<br />
 <br />
 
 <picture>
