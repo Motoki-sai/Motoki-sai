@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Motoki Saito — Full-stack engineer" width="100%" />
+<img src="./banner-mono.svg" alt="Motoki Saito — Full-stack engineer" width="100%" />
 
 <br />
 <br />
