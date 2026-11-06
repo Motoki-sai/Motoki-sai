@@ -21,4 +21,16 @@
 <br />
 <br />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+  <img src="./profile/stats-light.svg" alt="stats" height="165" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+  <img src="./profile/top-langs-light.svg" alt="top-langs" height="165" />
+</picture>
+
+<br />
+<br />
+
 </div>
